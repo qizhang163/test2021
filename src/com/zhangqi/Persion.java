@@ -10,5 +10,6 @@ public class Persion {
     private String id;
     private String email;
     private String phone;
+    private String address;
 
 }
