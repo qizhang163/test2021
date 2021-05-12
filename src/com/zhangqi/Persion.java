@@ -8,5 +8,6 @@ package com.zhangqi;
 public class Persion {
     private String name;
     private String id;
+    private String email;
 
 }
